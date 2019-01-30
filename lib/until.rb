@@ -5,4 +5,3 @@ def using_until
     levitate_force += 1
   end
 end
-
